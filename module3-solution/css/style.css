@@ -51,6 +51,10 @@ body{
   font-size: 1.8em;
 }
 
+#nav-link a span {
+   text-align: center;
+}
+
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #000000;
 }
