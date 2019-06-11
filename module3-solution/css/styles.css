@@ -6,7 +6,7 @@ body{
 }
 
 /*header*/
-#header-nav {
+.header-nav {
  height: 70px; 
  background-color: darkgray;
  border-radius: 0px;
@@ -28,26 +28,26 @@ body{
 	margin-bottom: 0;
 	line-height: .75;
 }
-#collapsable-nav{
+.collapsable-nav{
   border-top: 0;
 }
-#nav-link {
+.nav-link {
   background-color: #FFFFFF;
   margin-top: 0px;
   margin-bottom: 0;
   text-align: center;
 }
-#nav-link li {
+.nav-link li {
   border-bottom: 1px solid #000000;
 }
-#nav-link a {
+.nav-link a {
   color: #000000;
   text-align: center;
 }
-#nav-link a:hover {
+.nav-link a:hover {
   background: #E7E7E7;
 }
-#nav-link a span {
+.nav-link a span {
   font-size: 1.8em;
 }
 
