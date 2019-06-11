@@ -31,28 +31,24 @@ body{
 #collapsable-nav{
   border-top: 0;
 }
-#nav-list {
+#nav-link {
   background-color: #FFFFFF;
   margin-top: 0px;
   margin-bottom: 0;
   text-align: center;
 }
-#nav-list li {
-  border-top: 1px solid #000000;
+#nav-link li {
+  border-bottom: 1px solid #000000;
 }
-#nav-list a {
+#nav-link a {
   color: #000000;
   text-align: center;
 }
-#nav-list a:hover {
+#nav-link a:hover {
   background: #E7E7E7;
 }
-#nav-list a span {
-  font-size: 1.8em;
-}
-
 #nav-link a span {
-   text-align: center;
+  font-size: 1.8em;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
