@@ -1,9 +1,3 @@
-/********** Base styles **********/
-/* This can be deleted
-* {
-  box-sizing: border-box;
-}
-*/
 
 body {
 	background-color: #FAFAFA;
@@ -32,38 +26,5 @@ body {
 	width : 100%;
 }
 
-.container .jumbotron {
-	background-color : #F8F8F8;
-	margin: 15px 15px 15px 15px;
-	padding: 0px 0px 0px 0px;
-}
-
-#menu-title {
-	width : 100%;
-	font-size: 3em;
-}
-
-.menu-category {
-	padding: 5px 5px 5px 5px;
-
-}
-
-.menu-category-heading, .menu-category-content, .menu-category-endsection {
-	background-color: #E8E8E8;
-}
-/** 	
-Maybe its better to move margin to child objects**/
 
 
-.menu-category .menu-category-heading {
-	font-size: 2em;
-	margin: 0px 0px 0px 0px;	
-}
-
-.menu-category > .menu-category-content {
-	padding: 5px 10px 5px 10px;
-}
-
-.menu-category > .menu-category-endsection {
-	padding: 5px 10px 5px 10px;
-}
