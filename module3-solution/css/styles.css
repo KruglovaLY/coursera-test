@@ -74,10 +74,14 @@ h3{
 	font-size: bold; 
 	font-size: x-large;
 }
-h5{
-	text-align: center;
-	font-size: bold; 
-	font-size: x-large;
+
+
+text-center
+{
+text-align: center;
+font-size: bold;
+font-size: x-large;
+
 }
 .row{
 	height: 1000px;
