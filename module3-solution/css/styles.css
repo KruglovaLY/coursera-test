@@ -38,15 +38,14 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
-#nav-link a {
+.nav-link a {
    text-align: center;
-   border-bottom: 2px
+   border-bottom: 2px #2F4F4F
   
 }
 
-#text-center {
+.text-center {
  text-align: center;
  font-weight: bold;
-
 
 }
