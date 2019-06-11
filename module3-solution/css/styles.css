@@ -1,12 +1,11 @@
-
 body {
-	background-color: #FAFAFA;
+	background-color: #FFFFFF;
 	max-width: 100%;
 	font-family: Helvetica;
 	}
 
 #header-nav {
-	background-color : #B0B0B0;
+	background-color : #808080;
 	boarder: 0;
 	boarder-radius: 0;
 }
@@ -26,5 +25,22 @@ body {
 	width : 100%;
 }
 
-
+.navbar-brand h1 { 
+  font-family: 'Food, LLC', serif;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-link a {
+   text-align: center;
+   border-bottom: 2px
+  
+}
 
